@@ -380,15 +380,3 @@ openssl s_client -starttls smtp -connect tp046712.local:25
 | 7 | Apache virtual host config empty | Copied default config as template with `sudo cp` |
 | 8 | PHPLDAPAdmin PHP deprecated function error | Replaced buggy files with newer version (1.2.6.4) |
 
----
-
-## References
-
-- AVNET (2019). Oracle VM VirtualBox Installation Instructions for Windows 10.
-- Ubuntu (2023). Install Ubuntu desktop. [ubuntu.com](https://ubuntu.com/tutorials/install-ubuntu-desktop)
-- CloudDNS (2022). How does a DNS work? [manageengine.com](https://blogs.manageengine.com/clouddns/2022/10/24/how-does-a-dns-work.html)
-- Lowe, D. (2018). What is DHCP? [iplocation.net](https://www.iplocation.net/dhcp)
-- Diriba, C. (2023). What is LDAP? [teleforum.ethiotelecom.et](https://teleforum.ethiotelecom.et/blogs/1446/What-is-LDAP)
-- Aruba Cloud (2021). How to enable HTTPS protocol with Apache 2 on Ubuntu 20.04.
-- Wallen, J. (2022). How to check an IP address in Linux. [techtarget.com](https://www.techtarget.com/searchdatacenter/tutorial/How-to-check-an-IP-address-in-Linux)
-- Novotny, J. (2023). Use the ip Command in Linux. [linode.com](https://www.linode.com/docs/guides/how-to-use-the-linux-ip-command/)
