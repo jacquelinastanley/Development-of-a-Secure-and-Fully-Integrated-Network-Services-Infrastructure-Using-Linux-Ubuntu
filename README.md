@@ -1,9 +1,4 @@
-# CT106-3-2-SNA: Systems and Network Administration
-
-> **Asia Pacific University of Technology & Innovation**
-> Individual Assignment — Jacquelina Shalinie Stanley (TP046712)
-> Lecturer: Ts. Dr. Manimegalai Rajenderan
-
+# Development-of-a-Secure-and-Fully-Integrated-Network-Services-Infrastructure-Using-Linux-Ubuntu
 ---
 
 ## Overview
